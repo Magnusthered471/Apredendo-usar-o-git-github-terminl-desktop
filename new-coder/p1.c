@@ -5,7 +5,7 @@
 /*
 int main(){
     printf("Hello World\n");
+    printf("\nPresione qual quer tecla para finalizar o programa\t");
     return 0;
-
 }
 */
