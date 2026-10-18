@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 /* 
     4. Faça um programa que leia um número inteiro e depois o imprima.
     * int (com sinal): Divide o espaço para aceitar números negativos e positivos (ex: de $-128$ a $127$).
