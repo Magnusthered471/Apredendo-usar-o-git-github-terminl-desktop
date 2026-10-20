@@ -12,6 +12,6 @@ int main() {
     printf("Digite um num inteiro: ");
     scanf("%hd %d", &num, &num2);
     printf("O bytes de num seria %hd\n", sizeof(num));
-    printf("O bytes de num seria %hd\n", sizeof(num2));
+    printf("O bytes de num2 seria %d\n", sizeof(num2));
     return 0;
 }
