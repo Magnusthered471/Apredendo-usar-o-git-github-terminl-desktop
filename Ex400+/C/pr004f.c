@@ -6,7 +6,7 @@
     * int (com sinal): Divide o espaço para aceitar números negativos e positivos (ex: de $-128$ a $127$).
     * uint (sem sinal / unsigned): Ignora os negativos e usa toda a capacidade dos bits só para números positivos, dobrando o limite máximo (ex: de $0$ a $255$).
 */
-int main() {
+int main(void) {
     int16_t num;
     int32_t num2;
     printf("Digite um num inteiro: ");
