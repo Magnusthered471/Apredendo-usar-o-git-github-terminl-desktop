@@ -7,6 +7,7 @@
 */
 int main(void) {
     int num = 2.97;
-
+    printf("O valor da variavel seria %d", num);
+    // O valor seria 2 pois inteiro so mostra numero da frente, e para evitar isso so usar um tipo float ue mostra decimais ou senao usar numeros inteiro sem decimais.
     return 0;
 }
